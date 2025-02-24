@@ -86,7 +86,7 @@ Coding and engineering:
 - Github Co-pilot copilot
 - Double.bot - coding autocomplete, chat, inline editing
 - Continue - coding assistant, multiple models
-- Cursir - coding assistant
+- Cursor - coding assistant
 - Cody.dev - code helper with multiple API connections
 - Google AlphaCode 2
 - GPT Engineer (Open source) - https://github.com/AntonOsika/gpt-engineer
