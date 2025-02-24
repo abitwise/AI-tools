@@ -46,6 +46,7 @@ Format for workflows:
 - [Presentation and design tools](#presentation-and-design-tools)
 - [Various tools](#various-tools)
   - [Business tools](#business-tools)
+  - [Automated caller](#automated-caller)
   - [Photo editing](#photo-editing)
   - [Writing](#writing)
   - [3D Models and texture generation](#3d-models-and-texture-generation)
@@ -68,8 +69,9 @@ Format for workflows:
 | Tool | Description |
 |----- | ----------- |
 |[ChatGP by OpenAI](https://chatgpt.com/)|Generative AI chatbot, omni and reasoning model, API, enterprise solutions|
-|[DeepSeek](https://www.deepseek.com/)|Generative AI chatbot, omni (V3), reasoning (R1) and API. This is open source!|
+|[Google Gemini](https://gemini.google.com/app)|Google's Gemini chatbot|
 |[Grok by xAI](https://x.ai/grok)|Unfiltered answers with advanced capabilities in reasoning, coding, and visual processing.|
+|[DeepSeek](https://www.deepseek.com/)|Generative AI chatbot, omni (V3), reasoning (R1) and API. This is open source!|
 |[Claude by Anthropic](https://www.anthropic.com/)|Advanced companion, one of the best for coding, enterprise, API|
 |[Huggingface Chat](https://huggingface.co/chat/)|Chatbot with open source models - Llama, Deepseek R1|
 |[T3 chat](https://t3.chat/chat)|Chat with different model - Gemini 2.0 Flash, gpt-4o, o3-mini, claude 3.5 sonnet, DeepSeek V3 & R1|
@@ -105,13 +107,13 @@ Format for workflows:
 |[Moonvalley](https://moonvalley.ai)|Text to cinematic video|
 |[Klap](https://klap.app/)|Turn videos into viral shorts/tiktok|
 |[Animate Anyone](https://humanaigc.github.io/animate-anyone/)|Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation|
-
+|[Akool]https://akool.com/)|Cutting-Edge Gen AI Platform for Avatar Creation, Marketing, Sales, Film Production, Education, Video Production|
 
 ## Audio generation and tools
 | Tool | Description |
 |----- | ----------- |
 |[NotebookLM](https://notebooklm.google/)|Voiceover and video-avatar speaker, podcast|
-|[]()||
+|[MMAudio](https://mmaudio.net/)|Revolutionary AI-Powered Video to Audio Generation|
 |[]()||
 |[]()||
 
@@ -124,6 +126,9 @@ Format for workflows:
 ### Music creation
 | Tool | Description |
 |----- | ----------- |
+|[Suno](https://suno.com/)|Suno is building a future where anyone can make great music. |
+|[MusicLM](https://musiclm.com/)|MusicLM can create original music across various genres and styles based on text prompts.|
+|[]()||
 |[]()||
 
 ## Software engineering tools
@@ -179,7 +184,7 @@ Format for workflows:
 | Tool | Description |
 |----- | ----------- |
 |[NotebookLM](https://notebooklm.google/)|Your Personalized AI Research Assistant|
-|[]()||
+|[Google Gemini Pro with Deep Research](https://gemini.google.com/app)|Deep research|
 
 ## Presentation and design tools
 | Tool | Description |
@@ -195,12 +200,45 @@ Format for workflows:
 ### Business tools
 | Tool | Description |
 |----- | ----------- |
+|[Ifttt](https://ifttt.com/)|Automation for
+business and home. choose from 900+ services|
+|[Zapier](https://zapier.com/)|Automate without limits. Turn chaos into smooth operations by automating workflows yourself—no developers, no IT tickets, no delays. The only limit is your imagination.|
+|[Tray AI](https://tray.ai/)|The fastest, most flexible and safest
+way to turn AI into business performance|
+|[Make](https://www.make.com/)|Automation you can see, flex, and scale
+Realize your business’s full potential with Make’s intuitive no-code development platform.|
+|[Pipedream](https://pipedream.com/)|Connect APIs, AI, databases, and more. Build powerful applications that connect all the services in your stack. Code-level control when you need it.|
+|[n8n](https://n8n.io/)|Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams|
+|[Workato](https://www.workato.com/)|Integration + Automation + AI = Enterprise Orchestration.|
+|[Napkin AI](https://www.napkin.ai/)|Napkin turns your text into visuals so sharing your ideas is quick and effective.|
+|[Conversion AI](https://conversion.ai/)|AI marketing teammates, optimized to convert.|
+|[Daily AI](https://daily.ai/)|Supercharge Your Email Marketing With Daily.ai|
+|[Bubble](https://bubble.io/)|Build a professional product, launch to customers, and grow without limits. Join millions of people who’ve built their dreams with Bubble.|
+|[ClickUp](https://clickup.com/integrations)|The everything app, for work. Connect over 1,000+ tools to ClickUp for free.|
+|[Monday - work management](https://monday.com/work-management)|Bring your strategy to life. Gain the clarity and control you need to connect your everyday work to business goals across projects and processes.|
+|[Monday - Dev](https://www.monday.com/w/dev)|Develop with precision and speed. Plan roadmaps, manage sprints, and release products fast - on one flexible platform.|
+|[Stripe](https://stripe.com/en-ee)|Financial infrastructure to grow your revenue. (Payments)|
+
+### Automated caller
+| Tool | Description |
+|----- | ----------- |
+|[Bland AI](https://www.bland.ai/)|Your platform for making ultra-realistic AI Phone Calls|
+|[Poly AI](https://poly.ai/)|Resolve over 50% of calls and consistently deliver your best brand experience.|
+|[Vapi AI](https://vapi.ai/)|Voice AI for developers. Vapi lets developers build, test and deploy voice agents in minutes rather than months.|
+|[Retell AI](https://www.retellai.com/)|Supercharge your Call Operations with Voice AI|
+|[Synthflow](https://synthflow.ai/)|Effortless Human-Like AI Phone Calls|
+|[Curious Thing](https://curiousthing.io/)|Phone AI agents for you or your businesses|
+|[Simple Phones](https://www.simplephones.ai/)|Never miss a call
+from a customer.|
 |[]()||
 
 ### Photo editing
 | Tool | Description |
 |----- | ----------- |
-|[]()||
+|[Google Magic Editor](https://www.google.com/photos/editing/)|Reimagine all your favorite moments with the help of generative AI.|
+|[Clipdrop](https://clipdrop.co/)|Create stunning visuals
+in seconds|
+|[Runway](https://runwayml.com/)|Image to Image. Text to Image. Transform an existing image to a modified image. Easily create an image from scratch.|
 
 ### Writing
 | Tool | Description |
@@ -213,7 +251,10 @@ Format for workflows:
 ### 3D Models and texture generation
 | Tool | Description |
 |----- | ----------- |
-|[]()||
+|[Meshy AI](http://meshy.ai)|AI 3D Model Generator for creators.|
+|[Odyssey Explorer](https://odyssey.world/introducing-explorer)|World models for film, gaming, and beyond.|
+|[Hunyuan 3D 2.0](https://github.com/Tencent/Hunyuan3D-2)|An advanced large-scale 3D synthesis system for generating high-resolution textured 3D assets|
+|[Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)|A pytorch implementation of the text-to-3D model Dreamfusion, powered by the Stable Diffusion text-to-2D model.|
 
 ## How to run models locally
 | Tool | Description |
