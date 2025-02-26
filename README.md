@@ -51,7 +51,7 @@ Format for workflows:
   - [Writing](#writing)
   - [3D Models and texture generation](#3d-models-and-texture-generation)
 - [How to run models locally](#how-to-run-models-locally)
-- [List of models](#list-of-models)
+  - [List of models that can be run locally](#list-of-models-that-can-be-run-locally)
 - [Other AI tools list providers](#ai-tools-list-providers)
 - [Some literature and articles](#literature-and-articles)
 - [Helping services (not AI)](#helping-services)
@@ -73,6 +73,7 @@ Format for workflows:
 |[Grok by xAI](https://x.ai/grok)|Unfiltered answers with advanced capabilities in reasoning, coding, and visual processing.|
 |[DeepSeek](https://www.deepseek.com/)|Generative AI chatbot, omni (V3), reasoning (R1) and API. This is open source!|
 |[Claude by Anthropic](https://www.anthropic.com/)|Advanced companion, one of the best for coding, enterprise, API|
+|[Mistral Le Chat](https://mistral.ai/products/le-chat)|Le Chat combines powerful AI with extensive information access to help you get any job done, from cooking to coding.|
 |[Huggingface Chat](https://huggingface.co/chat/)|Chatbot with open source models - Llama, Deepseek R1|
 |[T3 chat](https://t3.chat/chat)|Chat with different model - Gemini 2.0 Flash, gpt-4o, o3-mini, claude 3.5 sonnet, DeepSeek V3 & R1|
 |[Groq](https://groq.com/)|Chat with various Open-source AI models, API, possibly the fastest service!|
@@ -83,6 +84,7 @@ Format for workflows:
 |[Midjourney](https://www.midjourney.com/)|Probably the best image generation tools available. Check out the [Niji mode!](https://runtheprompts.com/resources/midjourney-info/what-is-midjourney-niji-mode-plus-examples/) and also this [Niji mode tutorial](https://cheatsheet.md/midjourney/what-is-midjourney-niji)|
 |[Flux AI 1.1 Pro Ultra](https://flux1.ai/features/flux1-pro-ultra)|Generate ultra-high resolution images up to 4MP while maintaining incredibly fast 10-second generation times.|
 |[Stable Diffusion](https://stability.ai/news/introducing-stable-diffusion-3-5)|Amazing image generation tool, can be run locally as well|
+|[Imagen 3](https://deepmind.google/technologies/imagen-3/)|Google: Our highest quality text-to-image model|
 |[Janus Pro 7B](https://januspro.org/)|One of the best tools for local image generation - [Janus github link](https://github.com/deepseek-ai/Janus) |
 |[Leonardo AI](https://leonardo.ai/)|Leverage generative AI with a unique suite of tools to convey your ideas to the world.|
 |[LensGo](https://lensgo.ai/)|Image generation platform, last time i tried it was slow|
@@ -107,33 +109,29 @@ Format for workflows:
 |[Moonvalley](https://moonvalley.ai)|Text to cinematic video|
 |[Klap](https://klap.app/)|Turn videos into viral shorts/tiktok|
 |[Animate Anyone](https://humanaigc.github.io/animate-anyone/)|Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation|
-|[Akool]https://akool.com/)|Cutting-Edge Gen AI Platform for Avatar Creation, Marketing, Sales, Film Production, Education, Video Production|
+|[Akool](https://akool.com/)|Cutting-Edge Gen AI Platform for Avatar Creation, Marketing, Sales, Film Production, Education, Video Production|
 
 ## Audio generation and tools
 | Tool | Description |
 |----- | ----------- |
 |[NotebookLM](https://notebooklm.google/)|Voiceover and video-avatar speaker, podcast|
 |[MMAudio](https://mmaudio.net/)|Revolutionary AI-Powered Video to Audio Generation|
-|[]()||
-|[]()||
 
 ### Voice tools
 | Tool | Description |
 |----- | ----------- |
 |[Eleven Labs](https://elevenlabs.io/)|AI voice generator, Text to speech, voice cloning & changer, dubbing, text to sfx, 32 languages, APIs, Agents|
-|[]()||
 
 ### Music creation
 | Tool | Description |
 |----- | ----------- |
 |[Suno](https://suno.com/)|Suno is building a future where anyone can make great music. |
 |[MusicLM](https://musiclm.com/)|MusicLM can create original music across various genres and styles based on text prompts.|
-|[]()||
-|[]()||
 
 ## Software engineering tools
 | Tool | Description |
 |----- | ----------- |
+|[Google Gemini Code Assist](https://codeassist.google/products/business?hl=en)|AI-assisted development for your business. Get generative AI coding assistance across the SDLC with enterprise security and privacy protection. For individuals now available in public preview.|
 |[Github Co-pilot](https://github.com/features/copilot)|The AI editor for everyone|
 |[Cline Bot](https://cline.bot/)|The collaborative AI partner for serious engineering|
 |[Roo Code](https://docs.roocode.com/)|Roo Code (formerly Roo Cline) is an AI-powered autonomous coding agent that lives in your editor.|
@@ -143,7 +141,7 @@ Format for workflows:
 |[v0 by Vercel](https://v0.dev/)|Chat with v0. Generate UI with simple text prompts. Copy, paste, ship.|
 |[Lovable](https://lovable.dev/)|Lovable is your superhuman full stack engineer.|
 |[Bolt](https://bolt.new/)|Prompt, run, edit, and deploy full-stack web and mobile apps.|
-|[Softgen](https://softgen.ai/)Softgen is your AI Web App Developer. Describe your vision, give instructions, and build full-stack web apps. No coding required.|
+|[Softgen](https://softgen.ai/)|Softgen is your AI Web App Developer. Describe your vision, give instructions, and build full-stack web apps. No coding required.|
 |[Replit](https://replit.com/)|Turn your ideas into apps with AI.|
 |[Devin](https://devin.ai/)|Devin is a collaborative AI teammate|
 |[Continue](https://www.continue.dev/)|The leading open-source AI code assistant. You can connect any models and any context to create custom autocomplete and chat experiences inside the IDE|
@@ -152,7 +150,7 @@ Format for workflows:
 ### Models for software engineering
 | Tool | Description |
 |----- | ----------- |
-|[Claude 3.5](https://www.anthropic.com/claude/sonnet)|Claude 3.5 Sonnet can help across the entire software development lifecycle—from initial design to bug fixes, maintenance to optimizations. Build Claude into your own products or use it as a coding assistant via Claude.ai.|
+|[Claude 3.7](https://www.anthropic.com/claude/sonnet)|Hybrid reasoning model, state-of-the-art coding skills, computer use, and 200K context window|
 |[Gemini 2.0 Flash](https://deepmind.google/technologies/gemini/flash/)|Probably the best combination of speed, intelligence and cost for coding, can handle larger codebases|
 |[o3-mini](https://platform.openai.com/docs/overview)|OpenAI o3-mini is pretty good in coding|
 |[Qwen 2.5 32b](https://huggingface.co/Qwen/Qwen2.5-32B)|Perfect for coding|
@@ -163,13 +161,7 @@ Format for workflows:
 | Tool | Description |
 |----- | ----------- |
 |[PiAPI](https://piapi.ai/)||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
+_todo_
 
 ## Agents and automation
 | Tool | Description |
@@ -190,34 +182,36 @@ Format for workflows:
 | Tool | Description |
 |----- | ----------- |
 |[Gamma](https://gamma.app/)|Beautiful presentations, documents, and websites. No design or coding skills required.|
-|[]()||
+|[Magic Slides](https://www.magicslides.app/)|AI creates presentation from text, video, pdf or url|
 
 ## Various tools
 | Tool | Description |
 |----- | ----------- |
-|[]()||
+_todo_
 
 ### Business tools
 | Tool | Description |
 |----- | ----------- |
-|[Ifttt](https://ifttt.com/)|Automation for
-business and home. choose from 900+ services|
+|[Ifttt](https://ifttt.com/)|Automation for business and home. choose from 900+ services|
 |[Zapier](https://zapier.com/)|Automate without limits. Turn chaos into smooth operations by automating workflows yourself—no developers, no IT tickets, no delays. The only limit is your imagination.|
-|[Tray AI](https://tray.ai/)|The fastest, most flexible and safest
-way to turn AI into business performance|
-|[Make](https://www.make.com/)|Automation you can see, flex, and scale
-Realize your business’s full potential with Make’s intuitive no-code development platform.|
+|[Tray AI](https://tray.ai/)|The fastest, most flexible and safest way to turn AI into business performance|
+|[Make](https://www.make.com/)|Automation you can see, flex, and scale. Realize your business’s full potential with Make’s intuitive no-code development platform.|
 |[Pipedream](https://pipedream.com/)|Connect APIs, AI, databases, and more. Build powerful applications that connect all the services in your stack. Code-level control when you need it.|
 |[n8n](https://n8n.io/)|Secure, AI-native workflow automation. The world's most popular workflow automation platform for technical teams|
+|[Relvance AI](https://relevanceai.com/)|Build teams of AI agents that deliver human-quality work. Ops teams can build and manage an entire AI workforce in one powerful visual platform.|
 |[Workato](https://www.workato.com/)|Integration + Automation + AI = Enterprise Orchestration.|
 |[Napkin AI](https://www.napkin.ai/)|Napkin turns your text into visuals so sharing your ideas is quick and effective.|
 |[Conversion AI](https://conversion.ai/)|AI marketing teammates, optimized to convert.|
 |[Daily AI](https://daily.ai/)|Supercharge Your Email Marketing With Daily.ai|
 |[Bubble](https://bubble.io/)|Build a professional product, launch to customers, and grow without limits. Join millions of people who’ve built their dreams with Bubble.|
 |[ClickUp](https://clickup.com/integrations)|The everything app, for work. Connect over 1,000+ tools to ClickUp for free.|
+|[Browse AI](https://www.browse.ai/)|The easiest way to extract and monitor data from any website. Train a robot in 2 minutes. No coding required.|
+|[SeonaAI](https://seonaai.com/)|SeonaAI is a free SEO tool|
 |[Monday - work management](https://monday.com/work-management)|Bring your strategy to life. Gain the clarity and control you need to connect your everyday work to business goals across projects and processes.|
 |[Monday - Dev](https://www.monday.com/w/dev)|Develop with precision and speed. Plan roadmaps, manage sprints, and release products fast - on one flexible platform.|
 |[Stripe](https://stripe.com/en-ee)|Financial infrastructure to grow your revenue. (Payments)|
+|[Uptime Robot](https://uptimerobot.com/)|Checks if your product/website is up or down|
+|[Finta](https://www.trustfinta.com/)|Finta - raise money for startup|
 
 ### Automated caller
 | Tool | Description |
@@ -228,25 +222,21 @@ Realize your business’s full potential with Make’s intuitive no-code develop
 |[Retell AI](https://www.retellai.com/)|Supercharge your Call Operations with Voice AI|
 |[Synthflow](https://synthflow.ai/)|Effortless Human-Like AI Phone Calls|
 |[Curious Thing](https://curiousthing.io/)|Phone AI agents for you or your businesses|
-|[Simple Phones](https://www.simplephones.ai/)|Never miss a call
-from a customer.|
-|[]()||
+|[Simple Phones](https://www.simplephones.ai/)|Never miss a call from a customer.|
 
 ### Photo editing
 | Tool | Description |
 |----- | ----------- |
 |[Google Magic Editor](https://www.google.com/photos/editing/)|Reimagine all your favorite moments with the help of generative AI.|
-|[Clipdrop](https://clipdrop.co/)|Create stunning visuals
-in seconds|
+|[Clipdrop](https://clipdrop.co/)|Create stunning visuals in seconds|
 |[Runway](https://runwayml.com/)|Image to Image. Text to Image. Transform an existing image to a modified image. Easily create an image from scratch.|
 
 ### Writing
 | Tool | Description |
 |----- | ----------- |
 |[GPTyper](https://gptype.app/)|Using ChatGPT to suggest while typing|
-|[Rytr](https://rytr.me/)Generate text, check grammar and much more|
+|[Rytr](https://rytr.me/)|Generate text, check grammar and much more|
 |[Jenni](https://jenni.ai/)|The AI-powered workspace to help you read, write, and organize research with ease.|
-|[]()||
 
 ### 3D Models and texture generation
 | Tool | Description |
@@ -259,24 +249,29 @@ in seconds|
 ## How to run models locally
 | Tool | Description |
 |----- | ----------- |
-|[]()||
+|[Ollama](https://ollama.ai/)|Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models, locally.|
+|[Zylon AI](https://www.zylon.ai/)|The truly Private AI platform for the Enterprise. The only self-contained and ready-to-go AI platform that runs in your own servers, allowing you to maintain data sovereignty.|
+|[FastChat](https://github.com/lm-sys/FastChat)|FastChat is an open platform for training, serving, and evaluating large language model based chatbots.|
+|[PrivateGPT](https://github.com/zylon-ai/private-gpt)|PrivateGPT is a production-ready AI project that allows you to ask questions about your documents using the power of Large Language Models(LLMs), even in scenarios without an Internet connection. 100% private, no data leaves your execution environment at any point.|
 
-## List of models
+### List of models that can be run locally
 | Tool | Description |
 |----- | ----------- |
-|[]()||
+|[R1 1776](https://huggingface.co/perplexity-ai/r1-1776)|R1 1776 is a DeepSeek-R1 reasoning model that has been post-trained by Perplexity AI to remove Chinese Communist Party censorship. The model provides unbiased, accurate, and factual information while maintaining high reasoning capabilities.|
+|[DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1)|DeepSeek-R1 is open source, rivaling OpenAI's Model o1.|
+|[Llama 3.3](https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_3/)|The open-source AI models you can fine-tune, distill and deploy anywhere.|
+|[Gemma](https://ai.google.dev/gemma)|A family of lightweight, state-of-the art open models built from the same research and technology used to create the Gemini models|
+|[Qwen2](https://qwen2.org/)|Qwen2 is an advanced suite of foundational and instruction-tuned language models, with parameters ranging from 0.5 to 72 billion. It includes both dense models and a Mixture-of-Experts model.|
+|[Trending models](https://huggingface.co/models)|Trending models on Huggingface. Check them out, world changes fast.|
 
 ## Other AI tools list providers
 | Tool | Description |
 |----- | ----------- |
-|[]()||
+|[Textblaze Chrome plugin](https://blaze.today/)|Speed up typing in Gmail, Office365 etc|
+|[Rows AI](https://rows.com/ai)|Your personal Data Analyst. Unlock the power of AI to analyze, summarize, and transform data – without scripts or code.|
 
 ## Some literature and articles
-| Tool | Description |
-|----- | ----------- |
-|[]()||
+_todo_
 
 ## Helping services (not AI)
-| Tool | Description |
-|----- | ----------- |
-|[]()||
+_todo_
