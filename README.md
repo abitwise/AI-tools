@@ -166,6 +166,7 @@ _todo_
 ## Agents and automation
 | Tool | Description |
 |----- | ----------- |
+|[Datavist](https://datavist.xyz/)|Extract structured data from web pages. No code, prompts or schema required.|
 |[Stagehand](https://docs.stagehand.dev/)|Stagehand is the easiest way to build browser automations. It is completely interoperable with Playwright and has seamless integration with Browserbase. [Demo video](https://youtu.be/uF67TGbFfRc?t=273)|
 |[OpenAI Operator](https://openai.com/index/introducing-operator/)|An agent that can use its own browser to perform tasks for you|
 |[Autogen](https://github.com/microsoft/autogen)|AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.|
