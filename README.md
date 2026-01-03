@@ -64,6 +64,7 @@ Format for workflows:
 |Coding with Bot agent|VS Code + Cline bot|This is the most popular way|
 |Coding with Bot agent|VS Code + Roo Code bot|Roo Code has become very popular spinoff from Cline|
 |Coding with Bot agent|VS Code + Github Copilot|The oldest coding assistant has evolved into Agent territory|
+|Enhancing coding|[Spec-driven development](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)|In spec-driven development, you start with a spec and then use agent to code it|
 
 ## Companion Chatbots
 | Tool | Description |
@@ -136,16 +137,20 @@ Format for workflows:
 |[Cline Bot](https://cline.bot/)|The collaborative AI partner for serious engineering|
 |[Roo Code](https://docs.roocode.com/)|Roo Code (formerly Roo Cline) is an AI-powered autonomous coding agent that lives in your editor.|
 |[Cursor](https://www.cursor.com/)|The AI Code Editor|
+|[Claude Code](https://www.claude.com/product/claude-code)|Work with Claude directly in your codebase. Build, debug, and ship from your terminal, IDE, Slack, or the web. Describe what you need, and Claude handles the rest.|
+|[Kilo Code](https://kilo.ai/)|Build, ship, and iterate faster with the most popular open source coding agent.|
 |[Codeium Windsurf](https://codeium.com/windsurf)|The first agentic IDE, and then some.|
 |[Google Project IDX](https://idx.google.com/)|Work quickly and efficiently with built-in AI assistance from Gemini, Google’s largest and most capable AI model. Generate code, access inline coding suggestions, and get help understanding complex code in real time.|
 |[v0 by Vercel](https://v0.dev/)|Chat with v0. Generate UI with simple text prompts. Copy, paste, ship.|
 |[Lovable](https://lovable.dev/)|Lovable is your superhuman full stack engineer.|
+|[Crush by Charm](https://github.com/charmbracelet/crush)|The glamourous AI coding agent for your favourite terminal|
 |[Bolt](https://bolt.new/)|Prompt, run, edit, and deploy full-stack web and mobile apps.|
 |[Softgen](https://softgen.ai/)|Softgen is your AI Web App Developer. Describe your vision, give instructions, and build full-stack web apps. No coding required.|
 |[Replit](https://replit.com/)|Turn your ideas into apps with AI.|
 |[Devin](https://devin.ai/)|Devin is a collaborative AI teammate|
 |[Continue](https://www.continue.dev/)|The leading open-source AI code assistant. You can connect any models and any context to create custom autocomplete and chat experiences inside the IDE|
 |[Sourcegraph](https://sourcegraph.com/)|Sourcegraph accelerates how software gets built, helping developers search, understand, and write code in complex codebases with AI|
+|[Spec-kit](https://github.com/github/spec-kit)|Toolkit to help you get started with Spec-Driven Development|
 
 ### Models for software engineering
 | Tool | Description |
@@ -171,6 +176,7 @@ _todo_
 |[Autogen](https://github.com/microsoft/autogen)|AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.|
 |[Camel](https://github.com/camel-ai/camel)|Customize Agents, Build Multi-Agent Systems, Practical Applications|
 |[ChatDev](https://github.com/OpenBMB/ChatDev)||
+|[Mem0](https://github.com/mem0ai/mem0)|Universal memory layer for AI Agents|
 
 ## Research tools
 | Tool | Description |
