@@ -31,7 +31,10 @@ Format for workflows:
 
 ## Contents
 
+- [Automated Software Engineering](#automated-software-engineer)
+- [Prompting Techniques](#prompting-techniques)
 - [Workflows](#workflows)
+- [Full Automation General Agents](#full-automation-general-agents)
 - [Companion chatbots](#companion-chatbots)
 - [Image generation](#image-generation)
 - [Video generation](#video-generation)
@@ -56,15 +59,45 @@ Format for workflows:
 - [Some literature and articles](#literature-and-articles)
 - [Helping services (not AI)](#helping-services)
 
+## Automated Software Engineer
+
+There are many tools available that can be combined and used. I have selected few combinations here that are popular and should work out nicely to accelerate your product engineering needs. Accelerate your idea to final product very fast.
+
+| Tool Combination | Notes |
+|----------------- | ----- |
+|[Openspec](https://openspec.dev/) + [Claude Code](https://claude.com/product/claude-code) + [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)|Probably the ultimate setup, from accelerated product specification to automated orchestrated coding - deliver fast|
+|[Openspec](https://openspec.dev/) + [OpenCode](https://opencode.ai/) + [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)| Ultimate setup II, Design product specs and roll uphill with any coding models connecting Opencode to for example Github Copilot this is very nice setup |
+|[OpenCode](https://opencode.ai/) + [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) | Very nice setup that can work out of the box |
+|[Claude Code](https://claude.com/product/claude-code) + [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)|Possibly the best automated coding setup|
+|[Openspec](https://openspec.dev/) + supported coding agent/tool | Begin by defining your software |
+|[Goose](https://block.github.io/goose/)| Connect any llm provider, cost depends on choice |Open source, created by Block Inc|
+
+### Spec creation tools
+| Name | Notes |
+|----- | ----- |
+|[Openspec](https://openspec.dev/) | Begin by defining your software, more streamlined workflow than SpecKit |
+|[SpecKit](https://github.com/github/spec-kit)| Also begin by defining your specs, but requires more effort compared to Openspec. The tool choice depends on your taste and needs. |
+
+
+## Prompting Techniques
+
+| Name | Notes |
+| ---- | ----- |
+| [Prompting Techniques by Prompt Engineering Guide](https://www.promptingguide.ai/techniques) | Has main prompting methods listed |
 
 ## Workflows
-| Name | Workflow (name the tools) | Additional notes |
-|----- | ------------------------- | ---------------- |
+| Name | Workflow (name the tools) | Notes |
+|----- | ------------------------- | ----- |
 |Animations|Generate images in Midjourney and turn it to video clips in Luma Ray 2; Sound: MMAudio, Music: Suno AI|For Japanese-style animation use Midjourney Niji mode|
 |Coding with Bot agent|VS Code + Cline bot|This is the most popular way|
 |Coding with Bot agent|VS Code + Roo Code bot|Roo Code has become very popular spinoff from Cline|
 |Coding with Bot agent|VS Code + Github Copilot|The oldest coding assistant has evolved into Agent territory|
 |Enhancing coding|[Spec-driven development](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)|In spec-driven development, you start with a spec and then use agent to code it|
+
+## Full Automation General Agents
+| Tool | Description |
+|----- | ----------- |
+|[Clawd Bot](https://clawd.bot/)|The AI that actually does things. Clears your inbox, sends emails, manages your calendar, checks you in for flights etc etc. All from WhatsApp, Telegram, or any chat app you already use. Run it in a separate machine, you can connect local models as well.|
 
 ## Companion Chatbots
 | Tool | Description |
