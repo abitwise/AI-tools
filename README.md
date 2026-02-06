@@ -280,6 +280,7 @@ _todo_
 ### 3D Models and texture generation
 | Tool | Description |
 |----- | ----------- |
+|[Seele AI](http://seeles.ai)|input text to Create 3D Games and Asserts.|
 |[Meshy AI](http://meshy.ai)|AI 3D Model Generator for creators.|
 |[Odyssey Explorer](https://odyssey.world/introducing-explorer)|World models for film, gaming, and beyond.|
 |[Hunyuan 3D 2.0](https://github.com/Tencent/Hunyuan3D-2)|An advanced large-scale 3D synthesis system for generating high-resolution textured 3D assets|
