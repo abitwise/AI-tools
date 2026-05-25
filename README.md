@@ -120,6 +120,7 @@ There are many tools available that can be combined and used. I have selected fe
 |[Stable Diffusion](https://stability.ai/news/introducing-stable-diffusion-3-5)|Amazing image generation tool, can be run locally as well|
 |[Imagen 3](https://deepmind.google/technologies/imagen-3/)|Google: Our highest quality text-to-image model|
 |[Janus Pro 7B](https://januspro.org/)|One of the best tools for local image generation - [Janus github link](https://github.com/deepseek-ai/Janus) |
+|[LandscapioAI](https://www.landscapioai.com/)|AI landscape design generator for creating garden and yard concept visuals from photos or text prompts.|
 |[Leonardo AI](https://leonardo.ai/)|Leverage generative AI with a unique suite of tools to convey your ideas to the world.|
 |[LensGo](https://lensgo.ai/)|Image generation platform, last time i tried it was slow|
 |[Krea AI](https://www.krea.ai/home)|Very nice image creation platform|
