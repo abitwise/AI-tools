@@ -58,6 +58,7 @@ Format for workflows:
 - [Other AI tools list providers](#ai-tools-list-providers)
 - [Some literature and articles](#literature-and-articles)
 - [Helping services (not AI)](#helping-services)
+- [MagicRills](https://magicrills.com) – 🎓 **110+ FREE AI tools for educators** | Lesson planner | Quiz generator | Urdu worksheets | ECCE activities | Kids games | School admin tools | No signup, no credit card required.
 
 ## Automated Software Engineer
 
