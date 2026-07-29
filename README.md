@@ -104,6 +104,7 @@ There are many tools available that can be combined and used. I have selected fe
 |----- | ----------- |
 |[ChatGP by OpenAI](https://chatgpt.com/)|Generative AI chatbot, omni and reasoning model, API, enterprise solutions|
 |[Google Gemini](https://gemini.google.com/app)|Google's Gemini chatbot|
+|[GPTGeminiGrok.AI](https://trygrokai.asia/)|Browser workspace for multi-model AI chat, image generation, and file analysis; account required with 10 free requests per day.|
 |[Grok by xAI](https://x.ai/grok)|Unfiltered answers with advanced capabilities in reasoning, coding, and visual processing.|
 |[DeepSeek](https://www.deepseek.com/)|Generative AI chatbot, omni (V3), reasoning (R1) and API. This is open source!|
 |[Claude by Anthropic](https://www.anthropic.com/)|Advanced companion, one of the best for coding, enterprise, API|
