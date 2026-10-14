@@ -226,7 +226,7 @@ _todo_
 ## Various tools
 | Tool | Description |
 |----- | ----------- |
-_todo_
+|[manga translator](https://www.mangatranslate.com/)|Browser-based manga OCR, translation, typesetting and editing; limited daily free credits and paid options.|
 
 ### Business tools
 | Tool | Description |
